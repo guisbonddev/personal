@@ -45,9 +45,13 @@ textarea:focus {
 }
 
 a:hover,
-a:focus {
+a:focus{
   text-decoration: none;
   outline: none;
+}
+
+.link{
+  color: #000;
 }
 
 ul,
